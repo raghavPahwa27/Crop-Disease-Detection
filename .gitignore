@@ -1,0 +1,7 @@
+images/
+*.csv
+*.h5
+__pycache__/
+*.pyc
+*.pyo
+*.tmp
